@@ -21,7 +21,7 @@ Computer Science Student · Java · Spring Boot · React · SQL
 
 ---
 
-# 💻 Development Domains
+# 💻 Projects & Technology Landscape
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
@@ -33,15 +33,6 @@ Computer Science Student · Java · Spring Boot · React · SQL
 | 👨‍💻 Programming Languages | Java, HTML, CSS ,JavaScript| [java-programs](https://github.com/iamsurajmane/Java-programs) <br> [html](https://github.com/iamsurajmane/html) <br> [css-learning](https://github.com/iamsurajmane/css-learning) |
 | 🧠 Data Structures & Algorithms | Java | [Data-Structure-And-Algorithms ](https://github.com/iamsurajmane/Data-Structure-And-Algorithms)|
 |LeetCode Problems | Java | 🔗 [LeetCode Profile](https://leetcode.com/u/surajmane23) |
-
-
-# 📖 Currently Learning
-
-🌱 Spring Boot  
-🌱 Hibernate  
-🌱 React  
-🌱 Backend Development  
-🌱 Cloud Technologies  
 
 ---
 
