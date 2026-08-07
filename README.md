@@ -10,7 +10,7 @@ Passionate about Full Stack Developent , Backend Development, Data Structures & 
 </p>
 
 <p align="center">
-📍 India &nbsp; • &nbsp 🌱 Exploring Redis, Spring Ecosystem & Advanced Java Collections <br/>
+📍 India &nbsp; | &nbsp; 🌱 Exploring Redis, Spring Ecosystem & Advanced Java Collections &nbsp;| &nbsp;
 🤝 Open to collaborating on Backend & Full Stack Projects
 </p>
 
