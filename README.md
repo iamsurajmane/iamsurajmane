@@ -14,6 +14,8 @@ Passionate about Full Stack Developent , Backend Development, Data Structures & 
 🤝 Open to collaborating on Backend & Full Stack Projects
 </p>
 
+---
+
 # 💻 Projects & Technology Landscape
 
 | Domain | Skills / Tools | Projects |
@@ -29,8 +31,6 @@ Passionate about Full Stack Developent , Backend Development, Data Structures & 
 
 ---
 
-
----
 
 ## 🌐 Connect With Me
 
