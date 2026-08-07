@@ -1,17 +1,16 @@
 <h1 align="center">👋 Hey, I'm Suraj Mane</h1>
 
 <h3 align="center">
-💻 Computer Science Student | ☕ Java Developer | 🚀 Full Stack Developer
+💻 Computer Science Student | 🚀 Full Stack Java Developer | CSE'27
 </h3>
 
 <p align="center">
 Building scalable web applications with <b>Java, Spring Boot, React & SQL</b> <br/>
-Passionate about Backend Development, Data Structures & Problem Solving
+Passionate about Full Stack Developent , Backend Development, Data Structures & Problem Solving
 </p>
 
 <p align="center">
-📍 India &nbsp; • &nbsp;
-🌱 Exploring Redis, Spring Ecosystem & Advanced Java Collections <br/>
+📍 India &nbsp; • &nbsp 🌱 Exploring Redis, Spring Ecosystem & Advanced Java Collections <br/>
 🤝 Open to collaborating on Backend & Full Stack Projects
 </p>
 
