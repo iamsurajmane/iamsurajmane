@@ -67,14 +67,7 @@ Interested in:
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsurajmane&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajmane&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajmane&layout=compact&theme=tokyonight" width="40%" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajmane&background=000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888" width="48%" />
 
 ---
 
