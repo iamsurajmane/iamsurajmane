@@ -34,7 +34,7 @@
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
-| 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | 📚 Library Management System <br> 🔗 GitHub: [Repository Link](#) <br><br> 🤖 AI Chat Application <br> 🔗 GitHub: [Repository Link](#) |
+| 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | [(https://github.com/iamsurajmane/Library-Managment-System-Backend.git)](#)<br> FrontEnd: [https://github.com/iamsurajmane/library-managment.git](#)  <br> [https://github.com/iamsurajmane/SEO-tags-Generator-project.git](#) |
 | ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | 🌦 Weather API Application <br> 🔗 GitHub: [Repository Link](#) <br><br> 📚 Library Management Backend <br> 🔗 GitHub: [Repository Link](#) |
 | 🎨 Frontend Projects | React, JavaScript, HTML, CSS, Tailwind CSS, Thymeleaf | 🌐 Portfolio Website <br> 🔗 GitHub: [Repository Link](#) <br><br> 🌦 Weather Application UI <br> 🔗 GitHub: [Repository Link](#) |
 | 🖌️ UI Projects | HTML, CSS, JavaScript, React Components, Responsive Design, Tailwind CSS | 🌐 Portfolio Website UI <br> 🔗 GitHub: [Repository Link](#) <br><br> 🎨 Modern Web Interfaces <br> 🔗 GitHub: [Repository Link](#) |
