@@ -34,8 +34,8 @@
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
-| 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | 📚 [Library-Managment-System-Backend](https://github.com/iamsurajmane/Library-Managment-System-Backend) <br>🎨 frontEnd:[library-managment](https://github.com/iamsurajmane/library-managment)  <br>[SEO-tags-Generator-project](https://github.com/iamsurajmane/SEO-tags-Generator-project) |
-| ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | 🌦 Weather API Application <br> 🔗 GitHub: [Repository Link](#) <br><br> 📚 Library Management Backend <br> 🔗 GitHub: [Repository Link](#) |
+| 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | [Library-Managment-System-Backend](https://github.com/iamsurajmane/Library-Managment-System-Backend) <br> frontEnd:[library-managment](https://github.com/iamsurajmane/library-managment)  <br> [SEO-tags-Generator-project](https://github.com/iamsurajmane/SEO-tags-Generator-project) |
+| ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | [journelApp](https://github.com/iamsurajmane/journelApp)|
 | 🎨 Frontend Projects | React, JavaScript, HTML, CSS, Tailwind CSS, Thymeleaf | 🌐 Portfolio Website <br> 🔗 GitHub: [Repository Link](#) <br><br> 🌦 Weather Application UI <br> 🔗 GitHub: [Repository Link](#) |
 | 🖌️ UI Projects | HTML, CSS, JavaScript, React Components, Responsive Design, Tailwind CSS | 🌐 Portfolio Website UI <br> 🔗 GitHub: [Repository Link](#) <br><br> 🎨 Modern Web Interfaces <br> 🔗 GitHub: [Repository Link](#) |
 | 🛠 Technologies | Java, Spring Boot, React, MySQL, MongoDB, Git, GitHub | Used across all development projects |
