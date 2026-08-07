@@ -72,4 +72,4 @@ Interested in:
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+<b>⭐ Feel free to explore my repositories and connect with me!</b>
