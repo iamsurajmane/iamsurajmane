@@ -40,7 +40,7 @@
 | 🖌️ UI Projects | HTML, CSS, JavaScript, React Components, Responsive Design, Tailwind CSS | 🌐 Portfolio Website UI <br> 🔗 GitHub: [Repository Link](#) <br><br> 🎨 Modern Web Interfaces <br> 🔗 GitHub: [Repository Link](#) |
 | 🛠 Technologies | Java, Spring Boot, React, MySQL, MongoDB, Git, GitHub | Used across all development projects |
 | 👨‍💻 Programming Languages | Java, JavaScript, HTML, CSS | Used for application development and problem solving |
-| 🧠 Data Structures & Algorithms | Arrays, Strings, Linked List, Stack, Queue, HashMap, Trees, BST, Recursion, Sorting, Searching | LeetCode Problem Solving <br> 🔗 Profile: [LeetCode](https://leetcode.com/u/surajmane23) |
+| 🧠 Data Structures & Algorithms | Java | LeetCode Problem Solving <br> 🔗 Profile: [LeetCode](https://leetcode.com/u/surajmane23) |
 
 
 # 📖 Currently Learning
