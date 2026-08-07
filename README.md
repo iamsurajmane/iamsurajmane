@@ -1,6 +1,13 @@
-👋 Hey, I'm Suraj Mane  
-Computer Science Student · Java · Spring Boot · React · SQL
-📍 India | ⚛️ Currently working on full‑stack projects | 🌱 Learning Redis & Java Collections | 🧑‍🤝‍🧑 Open to collaborate on backend + web apps
+## 👋 Hi, I'm Suraj Mane
+
+<p align="center">
+  <b>💻 Computer Science Student | Java Developer | Full Stack Enthusiast</b>
+</p>
+
+<p align="center">
+  🇮🇳 India &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🌱 Spring Boot &nbsp; | &nbsp; ⚛️ React &nbsp; | &nbsp; 🗄️ SQL
+</p>
+
 ---
 
 ## 🌐 Connect With Me
