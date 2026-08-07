@@ -32,14 +32,14 @@ Passionate about Full Stack Developent , Backend Development, Data Structures & 
 ---
 
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:sm3031972@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/suraj-mane-a3730b289/">
+<a href="https://www.linkedin.com/in/suraj-mane-a3730b289/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
