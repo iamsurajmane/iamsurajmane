@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Building scalable web applications with <b>Java, Spring Boot, React & SQL</b> <br/>
+Building scalable web applications with <b>Java, Spring Boot, React, MongoDB & SQL</b> <br/>
 Passionate about Full Stack Developent , Backend Development, Data Structures & Problem Solving
 </p>
 
