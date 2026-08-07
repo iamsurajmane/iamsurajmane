@@ -1,15 +1,6 @@
-# Hi 👋, I'm Suraj Ramchandra Mane
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student at **D. Y. Patil Technical Campus, Talsande**  
-📅 Expected Graduation: **2027**  
-💻 Aspiring **Associate Software Engineer**  
-🌱 Currently learning **Spring Boot, Hibernate, React**  
-🔥 Passionate about **Full Stack Development, Backend Engineering, and Problem Solving**
-
+👋 Hey, I'm Suraj Mane  
+Computer Science Student · Java · Spring Boot · React · SQL
+📍 India | ⚛️ Currently working on full‑stack projects | 🌱 Learning Redis & Java Collections | 🧑‍🤝‍🧑 Open to collaborate on backend + web apps
 ---
 
 ## 🌐 Connect With Me
@@ -35,12 +26,13 @@
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
 | 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | [Library-Managment-System-Backend](https://github.com/iamsurajmane/Library-Managment-System-Backend) <br> frontEnd:[library-managment](https://github.com/iamsurajmane/library-managment)  <br> [SEO-tags-Generator-project](https://github.com/iamsurajmane/SEO-tags-Generator-project) |
-| ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | [journelApp](https://github.com/iamsurajmane/journelApp)|
-| 🎨 Frontend Projects | React, JavaScript, HTML, CSS, Tailwind CSS, Thymeleaf | 🌐 Portfolio Website <br> 🔗 GitHub: [Repository Link](#) <br><br> 🌦 Weather Application UI <br> 🔗 GitHub: [Repository Link](#) |
-| 🖌️ UI Projects | HTML, CSS, JavaScript, React Components, Responsive Design, Tailwind CSS | 🌐 Portfolio Website UI <br> 🔗 GitHub: [Repository Link](#) <br><br> 🎨 Modern Web Interfaces <br> 🔗 GitHub: [Repository Link](#) |
-| 🛠 Technologies | Java, Spring Boot, React, MySQL, MongoDB, Git, GitHub | Used across all development projects |
-| 👨‍💻 Programming Languages | Java, JavaScript, HTML, CSS | Used for application development and problem solving |
-| 🧠 Data Structures & Algorithms | Java | LeetCode Problem Solving <br> 🔗 Profile: [LeetCode](https://leetcode.com/u/surajmane23) |
+| ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | [journelApp](https://github.com/iamsurajmane/journelApp) <br> [simple_Ecommerce_Project_-SpringBoot-](https://github.com/iamsurajmane/simple_Ecommerce_Project_-SpringBoot-)|
+| 🎨 Frontend Projects | React | [Sign-up-and-login-Form](https://github.com/iamsurajmane/Sign-up-and-login-Form) |
+| 🖌️ UI Projects | HTML, CSS, JavaScript Tailwind CSS | [netflix-ui-clone](https://github.com/iamsurajmane/netflix-ui-clone) <br> [twitter-clone](https://github.com/iamsurajmane/twitter-clone) |
+| 🛠 Technologies | Java , React, MongoDB , SpringBoot , MySQL ,Git , Github |  Used in all projects |
+| 👨‍💻 Programming Languages | Java, HTML, CSS ,JavaScript| [java-programs](https://github.com/iamsurajmane/Java-programs) <br> [html](https://github.com/iamsurajmane/html) <br> [css-learning](https://github.com/iamsurajmane/css-learning) |
+| 🧠 Data Structures & Algorithms | Java | [Data-Structure-And-Algorithms ](https://github.com/iamsurajmane/Data-Structure-And-Algorithms)|
+|LeetCode Problems | Java | 🔗 [LeetCode Profile](https://leetcode.com/u/surajmane23) |
 
 
 # 📖 Currently Learning
