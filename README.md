@@ -30,114 +30,18 @@
 
 ---
 
-# 💻 Skills & Expertise
+# 💻 Development Domains
 
-## 🚀 Full Stack Projects
+| Domain | Skills / Tools | Projects |
+|--------|----------------|----------|
+| 🚀 Full Stack Projects | Java, Spring Boot, React, MySQL, REST API, MongoDB | 📚 Library Management System <br> 🔗 GitHub: [Repository Link](#) <br><br> 🤖 AI Chat Application <br> 🔗 GitHub: [Repository Link](#) |
+| ⚙️ Backend Projects | Java, Spring Boot, Hibernate, REST APIs, MySQL, MongoDB | 🌦 Weather API Application <br> 🔗 GitHub: [Repository Link](#) <br><br> 📚 Library Management Backend <br> 🔗 GitHub: [Repository Link](#) |
+| 🎨 Frontend Projects | React, JavaScript, HTML, CSS, Tailwind CSS, Thymeleaf | 🌐 Portfolio Website <br> 🔗 GitHub: [Repository Link](#) <br><br> 🌦 Weather Application UI <br> 🔗 GitHub: [Repository Link](#) |
+| 🖌️ UI Projects | HTML, CSS, JavaScript, React Components, Responsive Design, Tailwind CSS | 🌐 Portfolio Website UI <br> 🔗 GitHub: [Repository Link](#) <br><br> 🎨 Modern Web Interfaces <br> 🔗 GitHub: [Repository Link](#) |
+| 🛠 Technologies | Java, Spring Boot, React, MySQL, MongoDB, Git, GitHub | Used across all development projects |
+| 👨‍💻 Programming Languages | Java, JavaScript, HTML, CSS | Used for application development and problem solving |
+| 🧠 Data Structures & Algorithms | Arrays, Strings, Linked List, Stack, Queue, HashMap, Trees, BST, Recursion, Sorting, Searching | LeetCode Problem Solving <br> 🔗 Profile: [LeetCode](https://leetcode.com/u/surajmane23) |
 
-### 📚 Library Management System
-- Full Stack web application
-- Frontend: React
-- Backend: Spring Boot
-- Database: MySQL
-- Features:
-  - Book Management
-  - Member Management
-  - Issue/Return Management
-  - AI Chat Integration
-
-
-### 🤖 AI Chat Application
-- AI-powered chatbot application
-- Backend API integration
-- Real-time user interaction
-
-
----
-
-# 🔥 Backend Projects
-
-### 🌦 Weather API Application
-- Built REST API integration using Java
-- Fetches real-time weather information
-- Backend development using Spring Boot
-
-
-### 📚 Library Management Backend
-- Developed RESTful APIs
-- Implemented CRUD operations
-- Database connectivity using MySQL
-
-
----
-
-# 🎨 Frontend Projects
-
-### 🌐 Portfolio Website
-- Personal developer portfolio
-- Built using:
-  - HTML
-  - CSS
-  - JavaScript
-  - Thymeleaf
-  - Tailwind CSS
-
-
-### ☁ Weather Application UI
-- Responsive frontend interface
-- API-based data rendering
-
-
----
-
-# 🎨 UI Projects
-
-- Responsive website designs
-- Modern user interfaces
-- Dark themed web designs
-- Component-based UI development using React
-
-
----
-
-# 🛠 Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-</p>
-
----
-
-# 👨‍💻 Programming Languages
-
-- ☕ Java
-- 🟨 JavaScript
-- 🌐 HTML
-- 🎨 CSS
-
----
-
-# 🧠 Data Structures & Algorithms
-
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- HashMap
-- Trees
-- Binary Search Tree
-- Recursion
-- Sorting Algorithms
-- Searching Algorithms
-
-📌 Solving problems regularly on **LeetCode**
-
----
 
 # 📖 Currently Learning
 
