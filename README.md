@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Suraj Mane</h1>
+<h1 align="center">👋 Hey, I'm Suraj Ramchandra Mane</h1>
 
 <h3 align="center">
 💻 Computer Science Student | 🚀 Full Stack Java Developer | CSE'27
@@ -69,11 +69,6 @@ Interested in:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajmane&background=000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888" width="48%" />
 </p>
----
-
-# ⚡ Developer Quote
-
-> "Code, Learn, Build and Improve Every Day 🚀"
 
 ---
 
