@@ -66,9 +66,9 @@ Interested in:
 ---
 
 # 📊 GitHub Stats
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajmane&background=000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888" width="48%" />
-
+</p>
 ---
 
 # ⚡ Developer Quote
