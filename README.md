@@ -4,7 +4,9 @@
 💻 Computer Science Student | 🚀 Full Stack Java Developer | CSE'27
 </h3>
 
-<h3 align="centre"> ![Profile views](https://komarev.com/ghpvc/?username=github.com/iamsurajmane&color=blue) </h3>
+<h3 align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=iamsurajmane&color=blue)
+</h3>
 
 
 <p align="center">
