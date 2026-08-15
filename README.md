@@ -4,10 +4,9 @@
 💻 Computer Science Student | 🚀 Full Stack Java Developer | CSE'27
 </h3>
 
-<h3 align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=iamsurajmane&color=blue)
-</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamsurajmane&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
 Building scalable web applications with <b>Java, Spring Boot, React, MongoDB & SQL</b> <br/>
