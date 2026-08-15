@@ -4,6 +4,9 @@
 💻 Computer Science Student | 🚀 Full Stack Java Developer | CSE'27
 </h3>
 
+<h3 align="centre"> ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue) </h3>
+
+
 <p align="center">
 Building scalable web applications with <b>Java, Spring Boot, React, MongoDB & SQL</b> <br/>
 Passionate about Full Stack Developent , Backend Development, Data Structures & Problem Solving
