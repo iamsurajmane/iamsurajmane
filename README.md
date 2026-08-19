@@ -10,7 +10,7 @@
 
 <p align="center">
 Building scalable web applications with <b>Java, Spring Boot, React, MongoDB & SQL</b> <br/>
-Passionate about Full Stack Developent , Backend Development, Data Structures & Problem Solving
+Passionate about Full Stack Development , Backend Development, Data Structures & Problem Solving
 </p>
 
 <p align="center">
