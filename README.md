@@ -29,7 +29,7 @@ Passionate about Full Stack Development , Backend Development, Data Structures &
 | 🎨 Frontend Projects | React | [Sign-up-and-login-Form](https://github.com/iamsurajmane/Sign-up-and-login-Form) <br> [to-do list app](https://github.com/iamsurajmane/react-learning/tree/main/to-do%20list%20app) <br> [News-App-react-](https://github.com/iamsurajmane/News-App-react-)|
 | 🖌️ UI Projects | HTML, CSS, JavaScript Tailwind CSS | [netflix-ui-clone](https://github.com/iamsurajmane/netflix-ui-clone) <br> [twitter-clone](https://github.com/iamsurajmane/twitter-clone) |
 | 🛠 Technologies | Java , React, MongoDB , SpringBoot , MySQL ,Git , Github |  Used in all projects |
-| 👨‍💻 Programming Languages | Java, HTML, CSS ,JavaScript| [java-programs](https://github.com/iamsurajmane/Java-programs) <br> [html](https://github.com/iamsurajmane/html) <br> [css-learning](https://github.com/iamsurajmane/css-learning) |
+| 👨‍💻 Programming Languages | Java, HTML, CSS ,JavaScript| [java-programs](https://github.com/iamsurajmane/Java-programs) <br> [html](https://github.com/iamsurajmane/html) <br> [css-learning](https://github.com/iamsurajmane/css-learning) <br> [javascript-learning](https://github.com/iamsurajmane/javascript-learning) |
 | 🧠 Data Structures & Algorithms | Java | [Data-Structure-And-Algorithms ](https://github.com/iamsurajmane/Data-Structure-And-Algorithms)|
 |LeetCode Problems | Java | 🔗 [LeetCode Profile](https://leetcode.com/u/surajmane23) |
 
