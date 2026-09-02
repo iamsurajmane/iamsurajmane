@@ -19,9 +19,8 @@ Passionate about Full Stack Development , Backend Development, Data Structures &
 </p>
 
 ---
-<p align="center">
 # 💻 Projects & Technology Landscape
-</p>
+
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
